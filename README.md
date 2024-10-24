@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goo$e
 - 👀 I’m interested in game-development & coding 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently practicing javascript & html
 - 💞️ I’m looking to collaborate on Unreal Engine & or Unity
 - 📫 How to reach me (@prod.goose) on Discord
 - ⚡ Fun fact: Who eva threw that paper, yo moms a hoe!
